@@ -1,0 +1,19 @@
+{
+  "name": "coloful-utils",
+  "version": "1.0.0",
+  "description": "一个普普通通的 UI 组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonjoyFang/colorful-ui.git"
+  },
+  "author": "fangjiaojiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonjoyFang/colorful-ui/issues"
+  },
+  "homepage": "https://github.com/JonjoyFang/colorful-ui#readme"
+}
